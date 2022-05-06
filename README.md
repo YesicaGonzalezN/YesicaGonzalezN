@@ -23,8 +23,6 @@ My name is Yesica Gonzalez, I'm 26 years old and I'm a Front End Developer in tr
 - 📫 You can find me at:
 - Linkedin: https://www.linkedin.com/in/yesica-nicole-gonzalez/
 
-Translated with www.DeepL.com/Translator (free version)
-
 ![19197184-PhotoRoom](https://user-images.githubusercontent.com/99261724/164913287-dae84151-c7f4-43a8-900f-a111b156c293.png)
 
 
