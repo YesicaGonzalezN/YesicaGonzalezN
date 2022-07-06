@@ -1,8 +1,8 @@
 Hola a todos! 👋
 Mi nombre es Yesica Gonzalez, tengo 26 años y soy Desarrolladora Front End en formación para convertirme en Full Stack. ✨
 
-- 🌱 Tengo conocimientos en HTML, CSS, JavaScript, React, Git/Github, Bootstrap, Wordpress 
-  y actualmente me estoy capacitando en Node.js, SQL y DIseño UX/UI.
+- 🌱 Tengo conocimientos en HTML, CSS, JavaScript, React, SQL, Git/Github, Bootstrap, Wordpress 
+  y actualmente me estoy capacitando en Node.js y PHP.
 - 💬 Estoy en búsqueda de mi primer experiencia laboral como Desarrolladora Front End. Me siento mas que preparada 
   para afrontar con profesionalismo y eficiencia las tareas que se me presenten.
   
